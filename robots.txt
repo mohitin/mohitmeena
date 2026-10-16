@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohitin.github.io/sitemap.xml
